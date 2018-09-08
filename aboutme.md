@@ -1,16 +1,16 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: About Me
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+Hello! My name is Jamie Kasulis. I'm a writer and software developer with a passion for the intersection between storytelling and technology. I am currently a junior at Williams College studying Computer Science with a potential double major in Comparative Literature.
+##
+##
+### My CS Coursework
+- Human-Computer Interaction
+- Computer Organization
+- Principles of Programming Languages
+- Data Structures and Advanced Programming
+- eTextiles: programming hardware components with Arduino
 
-- I rock a great mustache
-- I'm extremely loyal to my family
-
-What else do you need?
-
-### my history
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+## My Other Coursework 
