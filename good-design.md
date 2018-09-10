@@ -1,5 +1,3 @@
-## A Good Design at Williams
-
 I work in Schow Science Library, and I am appreciative of its main doors. There are a few qualities that I think are nice:
 - The doors are light and easy to open. Very helpful when you're carrying three textbooks, a laptop charger you're about to drop, and your third coffee of the day. In other words, the door is no obstacle.
 - It is very clear whether the doors are meant to be pushed or pulled, and this is accomplished without "Push" and "Pull" signifiers. You can tell by the doorknobs, absence of doorknobs, and push bars.
