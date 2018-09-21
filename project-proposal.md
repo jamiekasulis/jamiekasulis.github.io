@@ -17,7 +17,7 @@ can we make the museum something more like an escape room or choose-your-own-adv
 interact with intention and curiosity?
 
 ![Image by Thomas Hawk via Flickr](https://c1.staticflickr.com/2/1439/4733029692_5ca8179d9d_b.jpg "")
-[Image Source](https://www.flickr.com/photos/thomashawk/4733029692)
+[Image by Thomas Hawk via Flickr](https://www.flickr.com/photos/thomashawk/4733029692)
 
 ### Going Deeper
 Museums (and artists) are already doing a lot to add dimension to our experiences. Artists add auditory dimension to 
