@@ -16,7 +16,7 @@ physical experience-- allowing us to complement the materiality invoked by the w
 can we make the museum something more like an escape room or choose-your-own-adventure game, something that invites you to 
 interact with intention and curiosity?
 
-![Please Do Not Touch](https://c1.staticflickr.com/2/1439/4733029692_5ca8179d9d_b.jpg "XX")
+![Please Do Not Touch](https://c1.staticflickr.com/2/1439/4733029692_5ca8179d9d_b.jpg)
 [Image by Thomas Hawk via Flickr](https://www.flickr.com/photos/thomashawk/4733029692)
 
 ### Going Deeper
