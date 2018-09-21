@@ -18,14 +18,14 @@ physical experience-- allowing us to complement the materiality invoked by the w
 ### Going Deeper
 I want to somehow add dimension to the way that people interact with museums and artwork. What if museums gave us ample 
 opportunity to be participants rather than viewers, to take action rather than observe passively*? What if museums could 
-provide some kind of tactile experience? _As 
-is, museums (and artists) are already doing a lot to add dimension to our experiences._ Artists add auditory dimension to 
+provide some kind of tactile experience? As 
+is, museums (and artists) are already doing a lot to add dimension to our experiences. Artists add auditory dimension to 
 their works, which museums facilitate with speaker installations. Museums occasionally let you touch things or provide 
 playrooms and creativity labs for you to get hands-on. People have also created scavenger hunts and guided 
 tours to encourage interaction with exhibits. WCMA also invites viewers to participate insofar as joining the conversation 
 around its pieces, inviting the public to the act of interpretation and meaning-making. All of these ideas are inspirational. 
 But I want to push the idea of multidimensionality further. I want to include some kind of physical opportunity for visitors 
-in the way they move through the museum. I am interested in what we can design to disrupt the *walk-look-meander* pattern.
+in the way they move through the museum. I am interested in what we can design to disrupt the *walk-look-meander pattern.
 
 * I reiterate, as an avid museum fan, that even engaging deeply with a work often requires a distant, hands-off observation. 
 This is what I mean when I say "passive."
