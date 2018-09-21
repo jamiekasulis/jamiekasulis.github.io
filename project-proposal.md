@@ -23,7 +23,6 @@ interact with intention and curiosity?
 Museums (and artists) are already doing a lot to add dimension to our experiences. Artists add auditory dimension to 
 their works, which museums facilitate with speaker installations. Museums occasionally let you touch things or provide 
 playrooms and creativity labs for you to get hands-on. People have also created scavenger hunts and guided 
-tours to encourage interaction with exhibits. WCMA also invites viewers to participate insofar as joining the conversation 
-around its pieces, inviting the public to the act of interpretation and meaning-making. All of these ideas are inspirational. 
-But I want to push the idea of multidimensionality further. I want to include some kind of physical opportunity for visitors 
-in the way they move through the museum. I am interested in what we can design to disrupt the *walk-observe-meander* pattern.
+tours to encourage interaction with exhibits. I particularly like the concept of a scavenger hunt because this gamifies your trip to the museum and engages your pathfinding, clue-solving, and creative capacities.
+
+I envision a mobile game, something like an escape room, which allows you to enter an exhibit and scan different artworks or artifacts in the museum, each one triggering new challenges, puzzles, or narrative vignettes for you to experience. These would both gamify your experience in the museum, allowing you to interact beyond observing at a distance. They would also provide additional content to contextualize the exhibit and works. After all, the "story" that you get from how an exhibit is arranged and what the informational plaques read is not final-- an implementation such as this could add both nuance and structure to the narrative experience of an exhibit.
