@@ -16,6 +16,8 @@ physical experience-- allowing us to complement the materiality invoked by the w
 can we make the museum something more like an escape room or choose-your-own-adventure game, something that invites you to 
 interact with intention and curiosity?
 
+![Source: Thomas Hawk via [Flickr](https://www.flickr.com/photos/thomashawk/4733029692 "Flickr")
+
 ### Going Deeper
 Museums (and artists) are already doing a lot to add dimension to our experiences. Artists add auditory dimension to 
 their works, which museums facilitate with speaker installations. Museums occasionally let you touch things or provide 
