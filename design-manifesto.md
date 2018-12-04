@@ -37,13 +37,38 @@ When it came to making our higher-fidelity digital mockup, it actually happened 
 
 
 ### 4. ACCESSIBILITY
+It's easy to make assumptions about who will use your design and what their physical, mental, or emotional ability is. Taking some time to learn about the many things designers consider when working to make technology more accessible to the visually-impaired enlightened me about the use of screen readers and the very concrete things that we as computer scientists, software developers, blog writers, Facebook posters, twitter users-- virtually everyone, that is-- can do to help make the web more accessible.
+
+Some of the many things I learned are:
+* To think of folks with various forms of anxiety. Collecting some sort of input or response from users and then not giving them clear messaging on how that will be used or what they should expect in terms of next steps can be anxiety-inducing (Pun 8).
+* To include clear, encompassing, descriptive captions whenever I use an image on social media so that folks using screen readers can tell what the image demonstrates. To also include these in ALT tags (Theofanos and Redish 13)
+* To structure websites with clear headers, subheaders, and link names because folks who use screen readers scan with their ears (Theofanos and Redish 4)
+* To consider what kinds of mobility a user may be capable of, and to thusly avoid check boxes, radio buttons, and other mechanics that require fine motor skills (Pun 6)
+
+Learning this, and much more, has informed my approach to accessibility in design:
+* Consider accessibility in terms of emotional, mental, AND physical ability.
+* While fancy graphics and rhetorical flair might be tempting, carefully documented ALT tags, clear and descriptive headers, and simple language are ultimately more accessible. Prefer accessibility to unnecessary flair.
+* When possible, accommodate less precise actions, provide shortcuts, and provide other formats (i.e. non-textual) for the information.
+* Be clear with your users about how their input will be used and what they should expect from you.
+* Dedicate yourself to continually learning more about accessibility and building on your accessible design/development skill set.
 
 
 ### 5. A PERSONAL CODE OF ETHICS
+Accessibility should not just be a set of niche skills. It should be an ethical and professional imperative.
 
 
+
+
+### MOVING FORWARD: HOW A SEMESTER OF HCI HAS CHANGED THE WAY I THINK ABOUT BEING A COMPUTER SCIENTIST
 
 -----------
 #### Readings Mentioned
 Robert Sutton. 2006. “Eight tips for Better Brainstorming.” In BusinessWeek.
 Marc Rettig. 1994. “Prototyping for Tiny Fingers.” Commun. ACM 37, 4 (April 1994), 21-27. 
+Pun. 2016. "Dos and don'ts of designing for accessibility" on Gov.uk. 
+Theofanos & Redish. 2003. "Guidelines for accessible and usable web sites: Observing users who work with screen readers." Interactions, 10(6). http://redish.net/images/stories/PDF/InteractionsPaperAuthorsVer.pdf
+
+#### Past Deliverables Referenced
+x
+y
+z
