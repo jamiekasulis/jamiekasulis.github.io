@@ -43,6 +43,10 @@ Caption: A table of testing results with images, descriptions of the incident, a
 
 When it came to making our higher-fidelity digital mockup, it actually happened really uickly. This is because we had already done several rounds of testing on the design while it was in paper form, and thus knew to include all of the necessary feedback, back buttons, help messages, and so on. It's quicker to do that with paper than it is to do with software like Balsamiq. I also had the added psychological benefit of feeling more confident in my design, which had survived a few rounds of testing already by the time it made it into its higher-fidelity version.
 
+![High-fidelity digital mockup screenshot](/img/exhibit_page.JPG)
+Image by Jamie Kasulis for the Museums for All Project
+Caption: A screenshot of the design including a clickable "word cloud" featuring words such as "problematic" and "cultural appropriation."
+
 ### 4. ACCESSIBILITY
 
 **Accessibility is not a niche topic. It is my ethical and professional imperative to make my work as accessible as possible to folks with varying degrees of physical, mental, or emotional ability.**
