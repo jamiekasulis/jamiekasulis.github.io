@@ -101,7 +101,11 @@ Theofanos & Redish. 2003. "Guidelines for accessible and usable web sites: Obser
 
 #### Group Deliverables Referenced
 These deliverables were made in collaboration with [Dana Chung](https://danachung3.github.io/) and [Elvira Alonso](https://elvira-alonso.github.io/) for our group project, [Museums For All](https://museumsforall.github.io/).
+
 [Project Proposal](https://museumsforall.github.io/project-proposal/)
+
 [Understanding to Make Final Report](https://museumsforall.github.io/understanding-to-make/)
+
 [Task Design Sketches](https://museumsforall.github.io/2018-10-12-task-sketches/)
+
 [Paper Prototype](https://museumsforall.github.io/2018-10-29-Paper-Prototype/)
