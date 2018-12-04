@@ -3,7 +3,7 @@ title: Design Manifesto
 ---
 Learning principles of design taught me many things. Before anything, it broke down the misconception that designers are just clever people with inexplicably genius vision. Over the course of the semester, I learned that there is both a science and an art to design, and that design choices are evidence-driven; research and experimentation undergirds the entire design process. 
 
-Here are five main takeaways from my semester studying human-computer interaction.**Above all else, design made me reckon with the fact that the things I create will have an impact on people, and it is both my professional and ethical imperative to think critically about what that impact will be.**
+Here are five main takeaways from my semester studying human-computer interaction. **Above all else, design made me reckon with the fact that the things I create will have an impact on people, and it is both my professional and ethical imperative to think critically about what that impact will be.**
 
 ### 1. COMMUNICATION IS KEY
 
@@ -16,12 +16,12 @@ In a nutshell: *We are designing for people of color, for whom the literature an
 
 ### 2. BE OPEN TO NEW IDEAS
 
-**Being open to new ideas allowed pushed me to see the value in ideas that were not my own. It also pushed me to experiment with the different directions my design could take.**
+**Being open to new ideas allowed me to see the value in ideas that were not my own. It also pushed me to experiment with the different directions my design could go.**
 
-Thinking more deeply about brainstorming was the first step in learning to have an open mind for design. While reading about brainstorming, it became clear to me that facilitating brainstorming sessions is a skill (Sutton), and one that I certainily have not developed much at all. That said, being primed on some brainstorming best practices-- such as to try to *build* off of teammates' ideas  wherever you can (Sutton)-- did help me both respect and work with the creativity that all of us brought to the team.
+Thinking more deeply about brainstorming was the first step in learning to have an open mind for design. While reading about brainstorming, it became clear to me that facilitating brainstorming sessions is a skill (Sutton), and one that I certainily have not developed much at all. That said, being primed on some brainstorming best practices-- such as to try to *build* off of teammates' ideas  wherever you can (Sutton)-- did help us build off of each other's creativity.
 
 ![Task Sketches](/img/task_sketches.jpeg)
-Image by Dana Chung for the Museums for All project
+Image by Dana Chung for the Museums for All project. 
 Caption: Quick sketches exploring different design mediums, features, and tasks.
 
 In the early days of our design process, we had to rapidly [sketch](https://museumsforall.github.io/2018-10-12-task-sketches/) out design ideas for different forms, interactions, features, and tasks. This meant that, rather than dwelling on the idea of making a mobile app that does typical mobile app functions X, Y, and Z, I had to experiment with other ideas. We tossed around the idea of making an audio-based interface, for example, and so I had to consider the unique affordances of that medium whereas I might otherwise have disqualified it immediately if we hadn't done the sketches.
@@ -31,27 +31,27 @@ In the early days of our design process, we had to rapidly [sketch](https://muse
 
 **Trading slow, precise work for rapid, lo-fi, iterative design keeps the creativity flowing while also making sure your design is tried-and-true by the time it comes into its high-fidelity version.**
 
-I have a tendency to be a perfectionist. I meticulously outline my papers before a word is ever written, use stencils to draw perfect circles in my math notes, and clean my room almost every day. So you can imagine that this lesson was particularly difficult to learn. But even more than the last two lessons, I learned the value of rapid, lo-fi, iterative prototyping.
+I have a tendency to be a perfectionist. I meticulously outline my papers before a word is ever written, use stencils to draw perfect circles in my math notes, and clean my room almost every day. So you can imagine that this lesson was particularly difficult to learn. 
 
 When my group made our first [paper prototype](https://museumsforall.github.io/2018-10-29-Paper-Prototype/), my teammates had to remind me that the task was meant to be quick and dirty. I reluctantly left my aforementioned stencils behind as a result. It turns out that the series of testing that followed making our first paper prototype and necessitated many changes to it proved that it was not worth it to sink so much time into "perfecting" an inherently riddled-with-flaws draft of our design.
 
 I learned not to get bogged down in the details if it means stunting the development of your vision. Rapid, iterative testing is both more affordable than and more effective than slow, precise work. Furthermore, going too high-fidelity can result in less useful data during testing. As we read in "Prototyping for Tiny Fingers" by Marc Rettig, the issue with hi-fi is that "Reviewers and testers tend to comment on 'fit and finish' issues" (22) rather than the functionality or intuitiveness of your design.
 
 ![Testing Results](/img/testing_table.png)
-Image by Jamie Kasulis for the Museums For All project
+Image by Jamie Kasulis for the Museums For All project. 
 Caption: A table of testing results with images, descriptions of the incident, a severity rating, and information on the appropriate revision.
 
-When it came to making our higher-fidelity digital mockup, it actually happened really uickly. This is because we had already done several rounds of testing on the design while it was in paper form, and thus knew to include all of the necessary feedback, back buttons, help messages, and so on. It's quicker to do that with paper than it is to do with software like Balsamiq. I also had the added psychological benefit of feeling more confident in my design, which had survived a few rounds of testing already by the time it made it into its higher-fidelity version.
+When it came to making our higher-fidelity digital mockup, it actually happened really quickly. This is because we had already done several rounds of testing on the design while it was in paper form, and thus knew to include all of the necessary feedback, back buttons, help messages, and so on. It's quicker to do that with paper than it is to do with software like Balsamiq. I also had the added psychological benefit of feeling more confident in my design, which had survived a few rounds of testing already by the time it made it into its higher-fidelity version.
 
 ![High-fidelity digital mockup screenshot](/img/exhibit_page.JPG)
-Image by Jamie Kasulis for the Museums for All Project
+Image by Jamie Kasulis for the Museums for All Project. 
 Caption: A screenshot of the design including a clickable "word cloud" featuring words such as "problematic" and "cultural appropriation."
 
 ### 4. ACCESSIBILITY
 
 **Accessibility is not a niche topic. It is my ethical and professional imperative to make my work as accessible as possible to folks with varying degrees of physical, mental, or emotional ability.**
 
-It's easy to make assumptions about who will use your design and what their physical, mental, or emotional ability is. Taking some time to learn about the many things designers consider when working to make technology more accessible to the visually-impaired enlightened me about the use of screen readers and the very concrete things that we as computer scientists, software developers, blog writers, Facebook posters, twitter users-- virtually everyone, that is-- can do to help make the web more accessible.
+It's easy to make assumptions about who will use your design and what their physical, mental, or emotional ability is. Taking some time to learn about the many things designers consider when working to make technology more accessible to the visually-impaired enlightened me about the use of screen readers and the very concrete things that we as computer scientists, software developers, blog writers, Facebook posters, twitter users-- virtually everyone, that is-- can do to help make the web more accessible. Then, I learned that there are many other dimensions of accessibility to consider.
 
 Some of the many things I learned are:
 * To think of folks with various forms of anxiety. Collecting some sort of input or response from users and then not giving them clear messaging on how that will be used or what they should expect in terms of next steps can be anxiety-inducing (Pun 8).
@@ -73,7 +73,7 @@ It's important to me to preface my personal code of ethics by pointing out that 
 I call upon the work of the inspirational Patricia Hill Collins, particularly her work on "Black Feminist Epistemology" (*Black Feminist Thought*, 2008), where she explains how a society that over-relies on positivism while invalidating other knowledge forms does a lot to perpetuate racism and other oppressions.
 
 At a top-level, I identify some of the things that said over-reliance on positivism contributes to my society:
-* A disregard and diminishment the value of personal experience, subjectivity, and the existence of multiple truths
+* A disregard and diminishment of the value of personal experience, subjectivity, and the existence of multiple truths
 * A privileging of people who have access to the academy, STEM professions, and other elite positions, and an invalidation of those who do not
 * An encouragement for people to disregard the moral implications of their actions in favor of "objective" or "neutral" analysis of situations
 
@@ -84,8 +84,8 @@ I point out these things because, as someone who will enter the workforce as som
 * Always consider the ethical implications of my work. I am never excused from responsibility.
 * Accessibility is not a niche subject-- it is both an ethical and professional imperative.
 * Take safety seriously, and honor that through rigorous testing and consultation. Even the Titanic sunk!
-* When seeking user participation, be transparent about my motives and *clearly and visibly communicate* how information will be used and how privacy will be respected.
-* Hold myself accountable for mistakes. Be transparent about when I make them, and most importantly, learn from them.
+* When seeking user participation, be transparent about my motives and *clearly and visibly* communicate how information will be used and how privacy will be respected.
+* Hold myself accountable for mistakes. Be transparent when I make them, and then learn from them.
 
 ----------------------------------------------
 #### Readings Mentioned
