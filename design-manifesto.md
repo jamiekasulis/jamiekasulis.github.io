@@ -20,6 +20,10 @@ In a nutshell: *We are designing for people of color, for whom the literature an
 
 Thinking more deeply about brainstorming was the first step in learning to have an open mind for design. While reading about brainstorming, it became clear to me that facilitating brainstorming sessions is a skill (Sutton), and one that I certainily have not developed much at all. That said, being primed on some brainstorming best practices-- such as to try to *build* off of teammates' ideas  wherever you can (Sutton)-- did help me both respect and work with the creativity that all of us brought to the team.
 
+![Task Sketches](/img/task_sketches.jpeg)
+Image by Dana Chung for the Museums for All project
+Caption: Quick sketches exploring different design mediums, features, and tasks.
+
 In the early days of our design process, we had to rapidly [sketch](https://museumsforall.github.io/2018-10-12-task-sketches/) out design ideas for different forms, interactions, features, and tasks. This meant that, rather than dwelling on the idea of making a mobile app that does typical mobile app functions X, Y, and Z, I had to experiment with other ideas. We tossed around the idea of making an audio-based interface, for example, and so I had to consider the unique affordances of that medium whereas I might otherwise have disqualified it immediately if we hadn't done the sketches.
 
 
@@ -32,6 +36,10 @@ I have a tendency to be a perfectionist. I meticulously outline my papers before
 When my group made our first [paper prototype](https://museumsforall.github.io/2018-10-29-Paper-Prototype/), my teammates had to remind me that the task was meant to be quick and dirty. I reluctantly left my aforementioned stencils behind as a result. It turns out that the series of testing that followed making our first paper prototype and necessitated many changes to it proved that it was not worth it to sink so much time into "perfecting" an inherently riddled-with-flaws draft of our design.
 
 I learned not to get bogged down in the details if it means stunting the development of your vision. Rapid, iterative testing is both more affordable than and more effective than slow, precise work. Furthermore, going too high-fidelity can result in less useful data during testing. As we read in "Prototyping for Tiny Fingers" by Marc Rettig, the issue with hi-fi is that "Reviewers and testers tend to comment on 'fit and finish' issues" (22) rather than the functionality or intuitiveness of your design.
+
+![Testing Results](/img/testing_table.png)
+Image by Jamie Kasulis for the Museums For All project
+Caption: A table of testing results with images, descriptions of the incident, a severity rating, and information on the appropriate revision.
 
 When it came to making our higher-fidelity digital mockup, it actually happened really uickly. This is because we had already done several rounds of testing on the design while it was in paper form, and thus knew to include all of the necessary feedback, back buttons, help messages, and so on. It's quicker to do that with paper than it is to do with software like Balsamiq. I also had the added psychological benefit of feeling more confident in my design, which had survived a few rounds of testing already by the time it made it into its higher-fidelity version.
 
@@ -78,9 +86,13 @@ I point out these things because, as someone who will enter the workforce as som
 ----------------------------------------------
 #### Readings Mentioned
 Hill Collins, Patricia. Black Feminist Thought : Knowledge, Consciousness, and the Politics of Empowerment. Chapter 11, "Black Feminist Epistemology," pp. 269-290. Boston: Unwin Hyman, 1990. Print.
+
 Marc Rettig. 1994. “Prototyping for Tiny Fingers.” Commun. ACM 37, 4 (April 1994), 21-27. 
+
 Pun. 2016. "Dos and don'ts of designing for accessibility" on Gov.uk. 
+
 Robert Sutton. 2006. “Eight tips for Better Brainstorming.” In BusinessWeek.
+
 Theofanos & Redish. 2003. "Guidelines for accessible and usable web sites: Observing users who work with screen readers." Interactions, 10(6). http://redish.net/images/stories/PDF/InteractionsPaperAuthorsVer.pdf
 
 #### Group Deliverables Referenced
