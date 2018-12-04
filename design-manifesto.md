@@ -47,7 +47,7 @@ Some of the many things I learned are:
 * To structure websites with clear headers, subheaders, and link names because folks who use screen readers scan with their ears (Theofanos and Redish 4)
 * To consider what kinds of mobility a user may be capable of, and to thusly avoid check boxes, radio buttons, and other mechanics that require fine motor skills (Pun 6)
 
-Learning this, and much more, has informed my approach to accessibility in design:
+**Learning this, and much more, has informed my approach to accessibility in design:**
 * Consider accessibility in terms of emotional, mental, AND physical ability.
 * While fancy graphics and rhetorical flair might be tempting, carefully documented ALT tags, clear and descriptive headers, and simple language are ultimately more accessible. Prefer accessibility to unnecessary flair.
 * When possible, accommodate less precise actions, provide shortcuts, and provide other formats (i.e. non-textual) for the information.
@@ -65,12 +65,27 @@ At a top-level, I identify some of the things that said over-reliance on positiv
 * A privileging of people who have access to the academy, STEM professions, and other elite positions, and an invalidation of those who do not
 * An encouragement for people to disregard the moral implications of their actions in favor of "objective" or "neutral" analysis of situations
 
-I point out these things because, as someone who will enter the workforce as some sort of software developer/engineer, I will reap to some degree the benefits of a positivist society-- and so I will also be implicated in the harm that it does. People will look at my profession with a certain amount of respect and take seriously my analysis if it is undergirded by certain kinds of analysis. This is a privilege, and it is my moral and ethical responsibility to **always validate other knowledge forms** and **always consider the ethical implications of my work**, never thinking that I am somehow excused from responsibility.
+I point out these things because, as someone who will enter the workforce as some sort of software developer/engineer, I will reap to some degree the benefits of a positivist society-- and so I will also be implicated in the harm that it does. People will look at my profession with a certain amount of respect and take seriously my analysis if it is undergirded by certain kinds of analysis. I need to reckon with the epistemological oppression that I benefit from.
 
-And so, my personal code of ethics is as follows:
+**And so, my personal code of ethics is as follows:**
 * Always validate other knowledge forms. Acknowledge the privilege of my profession/education.
 * Always consider the ethical implications of my work. I am never excused from responsibility.
 * Accessibility is not a niche subject-- it is both an ethical and professional imperative.
 * Take safety seriously, and honor that through rigorous testing and consultation. Even the Titanic sunk!
 * When seeking user participation, be transparent about my motives and *clearly and visibly communicate* how information will be used and how privacy will be respected.
 * Hold myself accountable for mistakes. Be transparent about when I make them, and most importantly, learn from them.
+
+----------------------------------------------
+#### Readings Mentioned
+Hill Collins, Patricia. Black Feminist Thought : Knowledge, Consciousness, and the Politics of Empowerment. Chapter 11, "Black Feminist Epistemology," pp. 269-290. Boston: Unwin Hyman, 1990. Print.
+Marc Rettig. 1994. “Prototyping for Tiny Fingers.” Commun. ACM 37, 4 (April 1994), 21-27. 
+Pun. 2016. "Dos and don'ts of designing for accessibility" on Gov.uk. 
+Robert Sutton. 2006. “Eight tips for Better Brainstorming.” In BusinessWeek.
+Theofanos & Redish. 2003. "Guidelines for accessible and usable web sites: Observing users who work with screen readers." Interactions, 10(6). http://redish.net/images/stories/PDF/InteractionsPaperAuthorsVer.pdf
+
+#### Group Deliverables Referenced
+These deliverables were made in collaboration with [Dana Chung](https://danachung3.github.io/) and [Elvira Alonso](https://elvira-alonso.github.io/) for our group project, [Museums For All](https://museumsforall.github.io/).
+[Project Proposal](https://museumsforall.github.io/project-proposal/)
+[Understanding to Make Final Report](https://museumsforall.github.io/understanding-to-make/)
+[Task Design Sketches](https://museumsforall.github.io/2018-10-12-task-sketches/)
+[Paper Prototype](https://museumsforall.github.io/2018-10-29-Paper-Prototype/)
