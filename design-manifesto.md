@@ -47,7 +47,7 @@ When it came to making our higher-fidelity digital mockup, it actually happened 
 Image by Jamie Kasulis for the Museums for All Project. 
 Caption: A screenshot of the design including a clickable "word cloud" featuring words such as "problematic" and "cultural appropriation."
 
-### 4. ACCESSIBILITY
+### 4. ACCESSIBILITY IS A MUST
 
 **Accessibility is not a niche topic. It is my ethical and professional imperative to make my work as accessible as possible to folks with varying degrees of physical, mental, or emotional ability.**
 
@@ -67,7 +67,7 @@ Some of the many things I learned are:
 * Dedicate yourself to continually learning more about accessibility and building on your accessible design/development skill set.
 
 
-### 5. A PERSONAL CODE OF ETHICS
+### 5. ETHICS IS EVERYTHING
 It's important to me to preface my personal code of ethics by pointing out that I live in a society that supposedly values science, "hard facts," and rule of law. We might call this a *positivist* society, one that values objectivity, data, and numbers, a society that affords more social capital to engineers than it does to social workers, one that often sidesteps issues of morality under the names of "innovation" and "progress." 
 
 I call upon the work of the inspirational Patricia Hill Collins, particularly her work on "Black Feminist Epistemology" (*Black Feminist Thought*, 2008), where she explains how a society that over-relies on positivism while invalidating other knowledge forms does a lot to perpetuate racism and other oppressions.
